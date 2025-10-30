@@ -1,1 +1,2 @@
 Este ejercicio demuestra c¢mo conectar un repositorio local con GitHub. 
+Segunda versi¢n del archivo de descripci¢n 
